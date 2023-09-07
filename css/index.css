@@ -1,0 +1,47 @@
+.body{
+    padding: 40px 20px 30px 20px;
+}
+.navbar{
+    background-color: red;
+}
+
+.navbar-text{
+    margin-left: 30px;
+}
+
+.row_nav{
+    margin-right: 90px;
+}
+.nav-item{
+    padding-right: 20px;
+}
+.container_biografia {
+    margin:  0px 40px 20px 0px;
+    padding: 30px;
+    display: inline-flex;
+}
+
+.imagen_biografia {
+    width: 500px;
+    height: 300px;
+}
+.biografia_text{
+    text-align:center;
+    padding-left: 20px;
+}
+.title_text{
+    padding: 10px;
+}
+.footer{
+    background: red;
+    color: white;
+    height: 120px;
+    width: 100%;
+    bottom: 0px;    
+}
+.content_footer{
+    padding-top: 30px;
+}
+.text_footer{
+    text-align: center;
+}
